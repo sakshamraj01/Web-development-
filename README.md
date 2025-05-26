@@ -117,10 +117,9 @@
 
   <footer>
     <p>Follow us:</p>
-    <div class="social-links">
-      <a href="#">Twitter</a>
-      <a href="#">Facebook</a>
-      <a href="#">Instagram</a>
+    <div class="social media links">
+      <a href=["] "https://github.com/sakshamraj01">git hub</a>
+
     </div>
   </footer>
 </body>
